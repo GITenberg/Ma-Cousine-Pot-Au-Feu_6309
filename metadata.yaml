@@ -1,0 +1,33 @@
+_repo: Ma-Cousine-Pot-Au-Feu_6309
+creator:
+  author:
+    agent_name: Tinseau, Léon de
+    aliases:
+    - De Tinseau, Léon
+    - Tinseau, Antoine-Joseph-Léon de
+    - Tinseau, Leon de
+    - Tinseau, Léon de, comte
+    birthdate: 1844
+    deathdate: 1921
+    gutenberg_agent_id: '7530'
+    url: http://www.gutenberg.org/2009/agents/7530
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6309'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cousins -- Fiction'
+- !lcsh 'Upper class -- France -- History -- 19th century -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'France -- History -- Louis Philippe, 1830-1848 -- Fiction'
+- !lcsh 'France -- History -- July Revolution, 1830 -- Fiction'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+title: Ma Cousine Pot-Au-Feu
+url: http://www.gutenberg.org/ebooks/6309
